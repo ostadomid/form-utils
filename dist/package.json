@@ -1,0 +1,18 @@
+{
+  "name": "@neas/form-utils",
+  "version": "1.0.0",
+  "description": "Utility function to convert FormData to/from POJO",
+  "main": "lib/es5/index.js",
+  "module":"lib/es6/index.js",
+  "sideEffects":false,
+  "repository": {
+    "type":"git",
+    "url": "git+https://github.com/ostadomid/form-utils.git"
+  },
+  "keywords": [
+    "FormData",
+    "POJO"
+  ],
+  "author": "ostadomid2@gmail.com",
+  "license": "ISC"
+}

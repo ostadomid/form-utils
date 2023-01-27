@@ -1,0 +1,14 @@
+{
+  "name": "@neas/form-utils",
+  "version": "1.0.0",
+  "description": "Convert FormData to/from POJO",
+  "main": "index.js",
+  "scripts": {
+    "compile": "rd /s /q \"dist\\lib\" && tsc && tsc --build tsconfig.es5.json"
+  },
+  "author": "ostadomid",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}
